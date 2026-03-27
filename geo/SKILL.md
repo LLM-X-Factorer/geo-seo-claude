@@ -115,7 +115,7 @@ Adjust recommendations based on detected type. Local businesses need LocalBusine
 
 ---
 
-## Sub-Skills (10 Specialized Components)
+## Sub-Skills (13 Specialized Components)
 
 | # | Skill | Directory | Purpose |
 |---|-------|-----------|---------|

@@ -94,7 +94,7 @@ Open Claude Code and use these commands:
 geo-seo-claude/
 ├── geo/                          # Main skill orchestrator
 │   └── SKILL.md                  # Primary skill file with commands & routing
-├── skills/                       # 11 specialized sub-skills
+├── skills/                       # 13 specialized sub-skills
 │   ├── geo-audit/                # Full audit orchestration & scoring
 │   ├── geo-citability/           # AI citation readiness scoring
 │   ├── geo-crawlers/             # AI crawler access analysis
@@ -105,7 +105,10 @@ geo-seo-claude/
 │   ├── geo-technical/            # Technical SEO foundations
 │   ├── geo-content/              # Content quality & E-E-A-T
 │   ├── geo-report/               # Client-ready markdown report generation
-│   └── geo-report-pdf/           # Professional PDF report with charts
+│   ├── geo-report-pdf/           # Professional PDF report with charts
+│   ├── geo-prospect/             # CRM-lite prospect pipeline management
+│   ├── geo-proposal/             # Auto-generate client proposals
+│   └── geo-compare/              # Monthly delta tracking & progress reports
 ├── agents/                       # 5 parallel subagents
 │   ├── geo-ai-visibility.md      # GEO audit, citability, crawlers, brands
 │   ├── geo-platform-analysis.md  # Platform-specific optimization
